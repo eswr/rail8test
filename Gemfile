@@ -50,6 +50,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "importmap-rails", "~> 2.0"
+gem "importmap-rails", "~> 2.1"
 
 gem "propshaft", "~> 1.0"
